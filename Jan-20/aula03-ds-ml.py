@@ -1,3 +1,7 @@
+# Exemplo carros nas concessionárias
+# Modelo de ML de árvore de decisão
+# Algorítimo de classificação
+
 import pandas as pd
 df = pd.read_excel('~/aphonso/Ap/DSBD_Git/Data Science do zero - Aula ML/carros_usados.xls')
 
